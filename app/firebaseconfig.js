@@ -4,7 +4,7 @@ var config = {
     apiKey: "Your apiKey",
     authDomain: "Your authDomain",
     databaseURL: "Your databaseURL",
-    storageBucket: "Your storageBucker"
+    storageBucket: "Your storageBucket"
 };
 
 firebase.initializeApp(config);
